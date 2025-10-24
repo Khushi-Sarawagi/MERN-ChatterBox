@@ -1,7 +1,8 @@
-<h1 align="center">✨ Full-Stack Chat App with Auth & Emails ✨</h1>
+<h1 align="center">✨ ChatterBox ✨</h1>
 
+# Full Stack Chat App
 
-Highlights:
+## 📦 Features
 
 - 🔐 Custom JWT Authentication (no 3rd-party auth)
 - ⚡ Real-time Messaging via Socket.io
@@ -15,9 +16,21 @@ Highlights:
 - 🎨 Beautiful UI with React, Tailwind CSS & DaisyUI
 - 🧠 Zustand for State Management
 - 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
-- 🚀 Easy Deployment (free-tier friendly with Sevalla)
+- 🚀 Easy Deployment (free-tier friendly with Render)
 
 ---
+
+**Demo:** [Live Deployment](https://mern-chatterbox-ob8h.onrender.com/)
+
+---
+
+## 🖼️ Screenshots
+
+![SignIn Page](signin.png)
+![SignUp Page](signup.png)
+![Chat Page](chat.png)
+
+
 
 ## 🧪 .env Setup
 
@@ -62,3 +75,33 @@ cd frontend
 npm install
 npm run dev
 ```
+
+---
+
+## 🌎 Deployment
+
+**Live:** [mern-chatterbox-ob8h.onrender.com](https://mern-chatterbox-ob8h.onrender.com/)
+
+You can also deploy using Render or similar services.  
+Make sure to add/secure your environment variables on the host platform.
+
+---
+
+## 🧩 Tech Stack
+
+- **Frontend:** React, TailwindCSS, DaisyUI, Zustand
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Cloud Features:** Cloudinary (Images), Resend (Emails)
+- **Socket.io:** Real-time chat
+- **Arcjet:** Rate limiting
+
+---
+
+## 📝 Contribution
+
+Fork, branch, push changes, and create a PR.  
+All contributions are welcome!
+
+
+
