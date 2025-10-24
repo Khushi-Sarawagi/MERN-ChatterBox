@@ -20,9 +20,6 @@
 
 ---
 
-**Demo:** [Live Deployment](https://mern-chatterbox-ob8h.onrender.com/)
-
----
 
 ## 🖼️ Screenshots
 
